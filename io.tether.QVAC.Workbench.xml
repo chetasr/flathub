@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Copyright 2025 Tether Data -->
+<!-- Copyright 2025 Tether Data S.A. de C.V. -->
 <component type="desktop-application">
   <id>io.tether.QVAC.Workbench</id>
   <name>QVAC Workbench</name>
@@ -12,7 +12,7 @@
     </p>
   </description>
   <developer id="io.tether">
-    <name>Tether Data</name>
+    <name>Tether Data S.A. de C.V.</name>
   </developer>
   <branding>
     <color type="primary" scheme_preference="light">#FFFFFF</color>
@@ -27,19 +27,16 @@
   </url>
   <screenshots>
     <screenshot type="default">
-      <image type="source">https://raw.githubusercontent.com/tetherto/flathub/f2ad400661edf47a5f0e7ef12467e653c5f1395d/screenshots/1.png</image>
+      <image type="source">https://raw.githubusercontent.com/tetherto/flathub/refs/heads/qvac-workbench/screenshots/1.png</image>
     </screenshot>
     <screenshot type="default">
-      <image type="source">https://raw.githubusercontent.com/tetherto/flathub/f2ad400661edf47a5f0e7ef12467e653c5f1395d/screenshots/2.png</image>
+      <image type="source">https://raw.githubusercontent.com/tetherto/flathub/refs/heads/qvac-workbench/screenshots/2.png</image>
     </screenshot>    
     <screenshot type="default">
-      <image type="source">https://raw.githubusercontent.com/tetherto/flathub/f2ad400661edf47a5f0e7ef12467e653c5f1395d/screenshots/3.png</image>
+      <image type="source">https://raw.githubusercontent.com/tetherto/flathub/refs/heads/qvac-workbench/screenshots/3.png</image>
     </screenshot>    
     <screenshot type="default">
-      <image type="source">https://raw.githubusercontent.com/tetherto/flathub/f2ad400661edf47a5f0e7ef12467e653c5f1395d/screenshots/4.png</image>
-    </screenshot>
-    <screenshot type="default">
-      <image type="source">https://raw.githubusercontent.com/tetherto/flathub/f2ad400661edf47a5f0e7ef12467e653c5f1395d/screenshots/5.png</image>
+      <image type="source">https://raw.githubusercontent.com/tetherto/flathub/refs/heads/qvac-workbench/screenshots/4.png</image>
     </screenshot>
 </screenshots>
 </component>
