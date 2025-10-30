@@ -22,21 +22,26 @@
   <releases>
       <release version="1.0.0" date="2025-10-31"/>
   </releases>
+  <content_rating type="oars-1.1" />
   <url type="homepage">
     https://qvac.tether.dev
   </url>
   <screenshots>
     <screenshot type="default">
       <image type="source">https://raw.githubusercontent.com/tetherto/flathub/refs/heads/qvac-workbench/screenshots/1.png</image>
+      <caption>Model train of thought example</caption>
     </screenshot>
     <screenshot type="default">
       <image type="source">https://raw.githubusercontent.com/tetherto/flathub/refs/heads/qvac-workbench/screenshots/2.png</image>
+      <caption>Model chat interface</caption>
     </screenshot>    
     <screenshot type="default">
       <image type="source">https://raw.githubusercontent.com/tetherto/flathub/refs/heads/qvac-workbench/screenshots/3.png</image>
+      <caption>Model document repository interface</caption>
     </screenshot>    
     <screenshot type="default">
       <image type="source">https://raw.githubusercontent.com/tetherto/flathub/refs/heads/qvac-workbench/screenshots/4.png</image>
+      <caption>Onboarding and setup</caption>
     </screenshot>
 </screenshots>
 </component>
