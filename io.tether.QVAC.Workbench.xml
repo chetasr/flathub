@@ -20,7 +20,7 @@
   </branding>
   <launchable type="desktop-id">io.tether.QVAC.Workbench.desktop</launchable>
   <releases>
-      <release version="0.1.0" date="2025-10-27"/>
+      <release version="1.0.0" date="2025-10-31"/>
   </releases>
   <url type="homepage">
     https://qvac.tether.dev
